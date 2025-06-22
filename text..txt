@@ -1,0 +1,4 @@
+greatstack movie ticket booking ended: 4:16:06 frontend ended
+
+backend start:4:53:03
+npm run server
