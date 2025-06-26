@@ -1,4 +1,12 @@
 greatstack movie ticket booking ended: 4:16:06 frontend ended
 
-backend start:4:53:03
+backend start:5:52:50  || 7:23:22  || 7:52:01 present
 npm run server
+
+
+backend rechcek:4:50:23
+client foldert recheck:7:01:43
+
+versel uploading:5:01:22
+
+8:00:30 moviecard changes to movie._id to movie.id
